@@ -1,0 +1,15 @@
+{
+  "name": "save-as-excel-service",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/excel-service.js",
+  "scripts": {
+    "start": "node src/excel-service.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vree, P. <pascal.vree@rogare.org>",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.8.0"
+  }
+}
